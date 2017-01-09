@@ -37,6 +37,7 @@ Increasingly, we see visual form take on memetic traits. Through the adaptation 
 
 
 ![I'm Google] (imgoogle.png "I'm Google")
+
 Caption: [I'm Google, Dina Kelberman] (http://dinakelberman.tumblr.com/)
 
 
@@ -64,7 +65,8 @@ With an archeologist mindset we will track the technical and cultural reasons of
 **Project**
 
 
-![The Poetics of Structure] (poetics.png "The Poetics of Structure")
+![The Poetics of Structure] (images/poetics.png "The Poetics of Structure")
+
 Caption: The Poetics of Structure, Daniel Giuditta 
 
 **Step 1**
@@ -78,7 +80,8 @@ Prepare a 5 minute presentation on your collection and its history.
 [Due Class 3: January 25th](../calendar/week2.md)
 
 
-![Color Picker] (colorpicker.jpeg "Color Picker")
+![Color Picker] (images/colorpicker.jpeg "Color Picker")
+
 Caption: [Color Picker, by Anders Clausen] (http://www.triangulation.jp/2012/05/color-picker-by-anders-clausen.html)
 
 **Step 2**
@@ -90,7 +93,8 @@ Using your findings, create 3 websites that map your collections in 3 ways that 
 [Due Class 6: February 6th](../calendar/week2.md)
 
 
-![Captcha Typeface] (captcha.jpg "Captcha Typeface")
+![Captcha Typeface] (images/captcha.jpg "Captcha Typeface")
+
 Caption: [Captcha Typeface, by Jiwon Park] (http://work.jiwonpark.kr/Captcha-Typefaces)
 
 **Step 3**
@@ -100,7 +104,7 @@ Select one of these taxonomies and:
     * As a typeface, book, website, etc.
     * Create an interface that...
 
-[Due Class 6: February 6th](../calendar/week2.md)
+[Due..](../calendar/week2.md)
 
 ---
 
