@@ -55,9 +55,9 @@ With an archeologist mindset we will track the technical and cultural reasons of
 * A digital(?) artifact recontextualizing your collection
 
 **Reading**
-* [A Vernacular Web, Oliana Lialina](../library/1-vernacular-web/)
-* Interface Aesthetics: An Introduction, Jason Huff
-* The Meme, Metahaven
+* [A Vernacular Web, Oliana Lialina](../library/vernacular-web/)
+* [Interface Aesthetics: An Introduction, Jason Huff](../library/interface-aesthetics/)
+* [The Meme, Metahaven](../library/the-meme/)
 
 
 ---
