@@ -1,6 +1,6 @@
 # The Meme
 * Metahaven, 2013
-* Download PDF: [captives-of-the-cloud.pdf](the-meme.pdf)
+* Download PDF: [the-meme.pdf](the-meme.pdf)
 * Can Jokes Bring Down Governments?: Memes, Design and Politics
 
 ![The Meme](meme.jpg)
