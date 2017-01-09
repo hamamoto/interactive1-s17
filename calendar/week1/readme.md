@@ -12,7 +12,7 @@
 **For Next Week**
 
 _Reading_
-* [A Vernacular Web, by Oliana Lialina (Intro to links)](/hamamoto/interactive1-s17/tree/gh-pages/library/vernacular-web/)
+* [A Vernacular Web, by Oliana Lialina (Intro to links)]((https://github.com/hamamoto/interactive1-s17/tree/gh-pages/library/vernacular-web/)
 
 _Project_
 * [Research and identify 2 potential collections](https://github.com/hamamoto/interactive1-s17/issues/3)
