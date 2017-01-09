@@ -75,6 +75,60 @@ When identifying your collection, consider the social context in which it exists
 
 Prepare a 5 minute presentation on your collection and its history.
 
-[Due Class 3: January 25th](../calendar/week2/week2.md)
+[Due Class 3: January 25th](../calendar/week2.md)
+
+
+![Color Picker] (colorpicker.jpeg "Color Picker")
+Caption: [Color Picker, by Anders Clausen] (http://www.triangulation.jp/2012/05/color-picker-by-anders-clausen.html)
+
+**Step 2**
+
+Carefully analyze your collection and consider its connections. What are its formal attributes? On what platforms or in what geographic locations did they originate? How did these forms spread online change as a result?
+
+Using your findings, create 3 websites that map your collections in 3 ways that expose different ways of understanding them. For instance you could map a single collection by time, formal attributes, and designer. Think critically about what new insights these mappings can provide. 
+
+[Due Class 6: February 6th](../calendar/week2.md)
+
+
+![Captcha Typeface] (captcha.jpg "Captcha Typeface")
+Caption: [Captcha Typeface, by Jiwon Park] (http://work.jiwonpark.kr/Captcha-Typefaces)
+
+**Step 3**
+
+Select one of these taxonomies and:
+* Recontextualize these symbols to comment on them and their new context
+⋅⋅* As a typeface, book, website, etc.
+⋅⋅* Create an interface that...
+
+[Due Class 6: February 6th](../calendar/week2.md)
+
+---
+
+**Schedule**
+
+* Class 1: Weds Jan 18
+⋅⋅* Intro Project 1
+
+* Class 2: Mon Jan 23
+⋅⋅* Group discussion on the vernacular internet 
+⋅⋅* Small group meetings to discuss potential collections
+
+* Class 3: Weds Jan 25
+⋅⋅* 5 Minute presentations on collections
+
+* Class 4: Mon Jan 30
+⋅⋅* Small group meetings to review 3 taxonomies
+
+* Class 5: Weds Feb 1
+⋅⋅* Revise taxonomies during in class work-time
+
+* Class 6: Mon Feb 6
+⋅⋅* Discuss final taxonomies
+
+
+---
+
+**References**
+[Cameron's World] (http://www.cameronsworld.net/)
 
 
