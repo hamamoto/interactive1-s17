@@ -97,8 +97,8 @@ Caption: [Captcha Typeface, by Jiwon Park] (http://work.jiwonpark.kr/Captcha-Typ
 
 Select one of these taxonomies and:
 * Recontextualize these symbols to comment on them and their new context
-__* As a typeface, book, website, etc.
-__* Create an interface that...
+    * As a typeface, book, website, etc.
+    * Create an interface that...
 
 [Due Class 6: February 6th](../calendar/week2.md)
 
@@ -107,23 +107,23 @@ __* Create an interface that...
 **Schedule**
 
 * Class 1: Weds Jan 18
-__* Intro Project 1
+    * Intro Project 1
 
 * Class 2: Mon Jan 23
-__* Group discussion on the vernacular internet 
-__* Small group meetings to discuss potential collections
+    * Group discussion on the vernacular internet 
+    * Small group meetings to discuss potential collections
 
 * Class 3: Weds Jan 25
-__* 5 Minute presentations on collections
+    * 5 Minute presentations on collections
 
 * Class 4: Mon Jan 30
-__* Small group meetings to review 3 taxonomies
+    * Small group meetings to review 3 taxonomies
 
 * Class 5: Weds Feb 1
-__* Revise taxonomies during in class work-time
+    * Revise taxonomies during in class work-time
 
 * Class 6: Mon Feb 6
-__* Discuss final taxonomies
+    * Discuss final taxonomies
 
 
 ---
