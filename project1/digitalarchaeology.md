@@ -36,7 +36,7 @@ Caption: [Wendy’s Tweeted (And Quickly Deleted) A Pepe Meme] (https://www.buzz
 Increasingly, we see visual form take on memetic traits. Through the adaptation of new standards within interface design, to the spread of viral images via social networks.
 
 
-![I'm Google] (imgoogle.png "I'm Google")
+![I'm Google] (images/imgoogle.png "I'm Google")
 
 Caption: [I'm Google, Dina Kelberman] (http://dinakelberman.tumblr.com/)
 
