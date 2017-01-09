@@ -14,5 +14,5 @@ _Reading_
 * [“A Vernacular Web, by Oliana Lialina](../../library/1-vernacular-web/description.md)
 
 _Project_
-* Research and identify 2 potential collections
+* [Research and identify 2 potential collections](/issues/3)
 * [Codecadmy Units 1-3] (https://www.codecademy.com/learn/weba)
