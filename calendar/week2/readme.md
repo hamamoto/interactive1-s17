@@ -17,7 +17,7 @@ _Project_
 **For Next Week**
 
 _Reading_
-* [Interface Aesthetics: An Introduction, by Jason Huff](../../library/interface-aesthetics/)
+* [Interface Aesthetics: An Introduction, by Jason Huff](../../../library/interface-aesthetics/)
 
 _Project_
 * Create and upload 3 websites showcasing 3 taxonomies for your collections
