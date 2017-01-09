@@ -50,7 +50,7 @@ With an archeologist mindset we will track the technical and cultural reasons of
 * Learn basic HTML and CSS to produce simple webpages.
 
 **Requirements**
-* 5 minute presentation on your topic
+* 5 minute keynote/powepoint presentation on your topic
 * Online interface to showcase a collection of 50 images / graphics / forms
 * A digital(?) artifact recontextualizing your collection
 

@@ -1,16 +1,23 @@
-# Week #1 - 01/18
-### W 01/18
-* chris introduces himself and his work.
-* Bharath introduces himself and his work.
-* Students introduce themselves and their work, show 3 websites they like
-* Go through syllabus
-* Establish class expectations
-* Sign up for weekly presentations
-* Set up Github accounts with Sublime or Atom
-* Intro to Project #1 - Composition - 25 Variations
-** Lecture #1 on Basic HTML (Part 1)
+# Week 2 - 01/23, 0/25
+**M 01/23**
+* Reading presentation: A Vernacular Web
+* Intro to HTML Basics Part 1
+* Small Group Discussion on Collections
 
-### Homework
-* Reading #1: [“If it doesn’t exist on the Internet, It doesn’t exist” by Kenneth Goldsmith](../../library/1-exist-on-the-internet/description.md)
-* Start Level 1 of Project 
-* [Codecadmy Units 1-3] (https://www.codecademy.com/learn/weba)
+**For Wednesday**
+
+_Project_
+* Prepare 5 minute presentation on collections
+* [Codecadmy Units 4-6] (https://www.codecademy.com/learn/weba)
+
+**W 01/25**
+* Present your collections
+* Intro to HTML Basics Part 2
+
+**For Next Week**
+
+_Reading_
+Interface Aesthetics: An Introduction, Jason Huff
+
+_Project_
+* Create and upload 3 websites showcasing 3 taxonomies for your collections
