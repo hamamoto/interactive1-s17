@@ -55,9 +55,9 @@ With an archeologist mindset we will track the technical and cultural reasons of
 * A digital(?) artifact recontextualizing your collection
 
 **Reading**
-* [A Vernacular Web, Oliana Lialina](../library/vernacular-web/)
-* [Interface Aesthetics: An Introduction, Jason Huff](../library/interface-aesthetics/)
-* [The Meme, Metahaven](../library/the-meme/)
+* [A Vernacular Web, Oliana Lialina](../../6-library/vernacular-web/)
+* [Interface Aesthetics: An Introduction, Jason Huff](../../6-library/interface-aesthetics/)
+* [The Meme, Metahaven](../../6-library/the-meme/)
 
 
 ---
@@ -77,7 +77,7 @@ When identifying your collection, consider the social context in which it exists
 
 Prepare a 5 minute presentation on your collection and its history.
 
-[Due Class 3: January 25th](../calendar/week2.md)
+[Due Class 3: January 25th] (../../2-calendar/2-week-2/)
 
 
 ![Color Picker] (colorpicker.jpeg "Color Picker")
@@ -90,7 +90,7 @@ Carefully analyze your collection and consider its connections. What are its for
 
 Using your findings, create 3 websites that map your collections in 3 ways that expose different ways of understanding them. For instance you could map a single collection by time, formal attributes, and designer. Think critically about what new insights these mappings can provide. 
 
-[Due Class 6: February 6th](../calendar/week2.md)
+[Due Class 6: February 6th] (../../2-calendar/2-week-2/)
 
 
 ![Captcha Typeface] (captcha.jpg "Captcha Typeface")
@@ -104,7 +104,7 @@ Select one of these taxonomies and:
     * As a typeface, book, website, etc.
     * Create an interface that...
 
-[Due..](../calendar/week2.md)
+[Due..] (../../2-calendar/2-week-2/)
 
 ---
 
