@@ -10,6 +10,7 @@
 * Intro to [Project #1: Digital Archaeology](../project1/project.md)
 
 **For Next Week**
+
 _Reading_
 * [“A Vernacular Web, by Oliana Lialina](../../library/1-vernacular-web/description.md)
 
