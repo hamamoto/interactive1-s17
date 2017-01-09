@@ -7,12 +7,12 @@
 * Establish class expectations
 * Sign up for reading presentations
 * Exercise 1: Setting Up Class Site
-* Intro to [Project #1: Digital Archaeology](../project1/project.md)
+* Intro to [Project #1: Digital Archaeology](../project1/)
 
 **For Next Week**
 
 _Reading_
-* [A Vernacular Web, by Oliana Lialina (Intro to links)](../../library/5-vernacular-web/description.md)
+* [A Vernacular Web, by Oliana Lialina (Intro to links)](../../library/1-vernacular-web/)
 
 _Project_
 * [Research and identify 2 potential collections](https://github.com/hamamoto/interactive1-s17/issues/3)

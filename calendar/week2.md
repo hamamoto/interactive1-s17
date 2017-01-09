@@ -1,4 +1,4 @@
-# Week 2 - 01/23, 0/25
+# Week 2 - 01/23, 01/25
 **M 01/23**
 * Reading presentation: A Vernacular Web
 * Intro to HTML Basics Part 1
@@ -17,7 +17,7 @@ _Project_
 **For Next Week**
 
 _Reading_
-Interface Aesthetics: An Introduction, Jason Huff
+* [Interface Aesthetics: An Introduction, by Jason Huff](../../library/interface-aesthetics/)
 
 _Project_
 * Create and upload 3 websites showcasing 3 taxonomies for your collections
