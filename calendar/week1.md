@@ -7,7 +7,7 @@
 * Establish class expectations
 * Sign up for reading presentations
 * Exercise 1: Setting Up Class Site
-* Intro to Project #1
+* Intro to [Project #1: Digital Archaeology](../project1/)
 
 **For Next Week**
 _Reading_
